@@ -361,4 +361,3 @@ Estas son las herramientas que te dicen la "salud" de tus datos.
 * **`Detectar Tipo de Dato` (Detect Data Type):**
   * PQ aplica este paso automáticamente. A veces es bueno eliminarlo y establecer tus propios tipos de dato manualmente al final de la consulta para tener más control.
 
-
