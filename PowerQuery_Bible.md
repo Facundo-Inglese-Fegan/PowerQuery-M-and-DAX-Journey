@@ -360,3 +360,5 @@ Estas son las herramientas que te dicen la "salud" de tus datos.
   * **Caso de uso:** Crear una clave primaria (ID único) para una tabla que no la tiene, lo cual es vital para el modelo de Power BI.
 * **`Detectar Tipo de Dato` (Detect Data Type):**
   * PQ aplica este paso automáticamente. A veces es bueno eliminarlo y establecer tus propios tipos de dato manualmente al final de la consulta para tener más control.
+
+
