@@ -556,5 +556,3 @@ Esto es más de arquitectura. Cuando trabajas en un proyecto grande (como un Dat
 * `MiFuncion = () => ...;`
 
 > No te preocupes por esto para Power BI Desktop, pero es la estructura formal que usa M para organizar archivos `.pq` completos.
-
-
