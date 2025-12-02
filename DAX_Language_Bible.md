@@ -516,3 +516,4 @@ A veces, para un cálculo, necesitas crear una tabla "virtual" en memoria.
 
 No las usarás para crear medidas simples, pero son la base de los cálculos más complejos, donde creas una tabla virtual (VAR vTabla = ...) y luego la iteras (RETURN SUMX(vTabla, ...)).
 
+
